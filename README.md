@@ -1,4 +1,11 @@
 
+
+# Nessie Training - Matthew Kirby (lxc145)
+
+This project is an app to complete the Nessie API training in order to mentor for Capital One at Hackathons
+
+
+
 ## Installation and Running
 Install packages
 ```bash
